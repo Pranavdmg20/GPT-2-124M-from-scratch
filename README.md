@@ -1,4 +1,4 @@
-# Pranav Pattanshetti's GPT-2 From Scratch
+# GPT-2 From Scratch
 
 This repository contains my from-scratch implementation of a GPT-2-like language model, inspired by the architecture of OpenAI's GPT-2. The project demonstrates my deep learning engineering skills, including model design, training loop construction, and distributed training support.
 
