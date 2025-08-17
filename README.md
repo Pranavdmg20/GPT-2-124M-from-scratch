@@ -23,8 +23,8 @@ Hello, I'm a language model, so the next time I go, I'll just say, I like this s
 ## Contact
 For questions, collaborations, or more information, please contact me:
 - Name: Pranav Pattanshetti
-- Email: [your-email@example.com]
-- LinkedIn: [your-linkedin-profile]
+- Email: [pranavpattanshetti20@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/pranav-pattanshetti-130015263/]
 
 ## License
 MIT
